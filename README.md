@@ -1,1 +1,1 @@
-# Softuni-MySQL
+# Softuni-MySQL-Solved Exams
